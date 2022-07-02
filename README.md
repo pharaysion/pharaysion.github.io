@@ -6,3 +6,4 @@ welcome to my web space where i'm exploring setting up a github page with the in
 you can find me elsewhere on the permaverse:
 twitter: pharaysion
 discord: pharay
+opensea: pharay.eth
